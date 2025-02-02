@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607424093227",
+    "project_id": "internshiptracker-d18ac",
+    "storage_bucket": "internshiptracker-d18ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607424093227:android:ef2357ddc6f600587e5e6e",
+        "android_client_info": {
+          "package_name": "com.example.internship_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArpQZRIWGCkeUUfBdJXKhKk4aBluyK2JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

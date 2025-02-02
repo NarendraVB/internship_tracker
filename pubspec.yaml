@@ -38,7 +38,8 @@ dependencies:
   cloud_firestore: ^4.15.4  # Firestore database
   http: ^0.13.6      # API calls
   flutter_local_notifications: ^16.3.1  # Notifications
-
+  
+  
 
 
 
